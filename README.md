@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hendryanhendri
-- 👀 I’m interested in CodeIgniter, Laravel and RoR
+- 👀 I’m interested in Salesforce, SAP, Next.js,CodeIgniter, Laravel and RoR
 - 🌱 I’m currently learning RoR and Salesforce
 - 📫 How to reach me u have to contact me on email hendrisudiyanto.sttpb@gmail.com
 
