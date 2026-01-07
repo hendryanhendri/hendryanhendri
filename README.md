@@ -55,6 +55,7 @@ This diverse background allows me to bridge technical implementation with busine
 
 ### ☁️ Cloud & Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
 
 ---
 
