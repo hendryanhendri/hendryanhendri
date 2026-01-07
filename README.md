@@ -53,8 +53,8 @@ I am a software developer with a strong interest in enterprise systems and moder
 
 ## 🌍 Connect with Me
 - GitHub: [https://github.com/hendryanhendri](https://github.com/hendryanhendri)
-- LinkedIn: _(add your LinkedIn URL here)_  
-- Instagram: _(add your Instagram URL here)_  
+- LinkedIn: [https://www.linkedin.com/in/hendri-sudianto-805a84115/](LinkedIn)
+- TikTok: [https://www.tiktok.com/@fullstacknotes](Tiktok)
 
 ---
 
