@@ -5,6 +5,14 @@ I am a software developer with a strong interest in enterprise systems and moder
 
 ---
 
+## 👨‍💻 About Me
+
+I have grown through multiple technical roles at **PT GoTo Gojek Tokopedia**, ranging from Support and Network Engineering to Fullstack Web Development, Salesforce Development, and currently IT FAT as an ABAP Developer.
+
+This diverse background allows me to bridge technical implementation with business and financial requirements, delivering scalable and reliable solutions across enterprise systems.
+
+---
+
 ## 👀 Interests
 - Salesforce  
 - SAP (ABAP / FIORI / SAPUI5)  
