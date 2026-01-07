@@ -1,6 +1,64 @@
-- 👋 Hi, I’m @hendryanhendri
-- 👀 I’m interested in Salesforce, SAP, Next.js,CodeIgniter, Laravel and RoR
-- 🌱 I’m currently learning SAP Technical
+# 👋 Hi, I’m @hendryanhendri
+
+Welcome to my GitHub profile!  
+I am a software developer with a strong interest in enterprise systems and modern web development.
+
+---
+
+## 👀 Interests
+- Salesforce  
+- SAP (ABAP / FIORI / SAPUI5)  
+- Next.js  
+- CodeIgniter  
+- Ruby on Rails  
+
+---
+
+## 🌱 Currently Learning
+- SAP Technical (ABAP, CDS View, Integration, Reporting)
+
+---
+
+## 💼 Tech Stack
+
+### 🌐 Frontend
+- Next.js  
+- JavaScript  
+
+### 🧠 Backend
+- CodeIgniter  
+- Laravel  
+- Ruby on Rails  
+- Node.js  
+- PHP  
+- Python  
+- Ruby  
+
+### 🗄️ Database
+- PostgreSQL  
+- MySQL  
+- Supabase  
+
+### ☁️ Cloud & Deployment
+- Vercel  
+
+---
+
+## 🔧 Tools & Platforms
+- SAP  
+- Salesforce  
+- Git & GitHub  
+
+---
+
+## 🌍 Connect with Me
+- GitHub: [https://github.com/hendryanhendri](https://github.com/hendryanhendri)
+- LinkedIn: _(add your LinkedIn URL here)_  
+- Instagram: _(add your Instagram URL here)_  
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
 
 <!---
 hendryanhendri/hendryanhendri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
