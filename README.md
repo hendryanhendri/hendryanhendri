@@ -22,45 +22,45 @@ I am a software developer with a strong interest in enterprise systems and moder
 ## 💼 Tech Stack
 
 ### 🌐 Frontend
-- Next.js  
-- JavaScript  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### 🧠 Backend
-- CodeIgniter  
-- Laravel  
-- Ruby on Rails  
-- Node.js  
-- PHP  
-- Python  
-- Ruby  
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+---
 
 ### 🗄️ Database
-- PostgreSQL  
-- MySQL  
-- Supabase  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
 
 ### ☁️ Cloud & Deployment
-- Vercel  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🔧 Tools & Platforms
-- SAP  
-- Salesforce  
-- Git & GitHub  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 🌍 Connect with Me
-- GitHub: [https://github.com/hendryanhendri](https://github.com/hendryanhendri)
-- LinkedIn: [https://www.linkedin.com/in/hendri-sudianto-805a84115/](LinkedIn)
-- TikTok: [https://www.tiktok.com/@fullstacknotes](Tiktok)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hendryanhendri-181717?style=for-the-badge&logo=github)](https://github.com/hendryanhendri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hendri_Sudianto-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hendri-sudianto-805a84115/)
+[![TikTok](https://img.shields.io/badge/TikTok-@fullstacknotes-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@fullstacknotes)
 
 ---
 
 ⭐️ Feel free to explore my repositories and connect with me!
-
-<!---
-hendryanhendri/hendryanhendri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
