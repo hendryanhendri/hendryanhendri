@@ -18,7 +18,9 @@ This diverse background allows me to bridge technical implementation with busine
 - SAP (ABAP / FIORI / SAPUI5)  
 - Next.js  
 - CodeIgniter  
-- Ruby on Rails  
+- Ruby on Rails
+- Ruby
+- Python  
 
 ---
 
